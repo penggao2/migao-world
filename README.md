@@ -1,2 +1,9 @@
-# migao’s world
-try something new! hardworking！
+---
+description: learn something new, basic problem
+---
+
+# migao-world
+
+Hardworking！
+
+Juse test the sync!
