@@ -1,9 +1,9 @@
 ---
-description: try something new, basic
+description: learn something new, basic problem
 ---
 
 # hello world
 
 Hardworking！
 
-Juse test the sync
+Juse test the sync!
