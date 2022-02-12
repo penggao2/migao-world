@@ -2,4 +2,4 @@
 
 * [migao-world](README.md)
 * [生物信息学知识体系](sheng-wu-xin-xi-xue-zhi-shi-ti-xi.md)
-* [Page 1](page-1.md)
+* [生信知识来源](sheng-xin-zhi-shi-lai-yuan.md)
